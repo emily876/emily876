@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 **I'm currently in the 2nd year of my Bachelor in Technology Degree from CGC Jhanjeri, Mohali.**
 
 # My Stats
-# [![Devsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily876)](https://github.com/emily876/github-readme-stats)
 # ![Devsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily876&show_icons=true)
 
 
