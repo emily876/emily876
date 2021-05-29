@@ -11,3 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 # About Me
 **I'm currently in the 2nd year of my Bachelor in Technology Degree from CGC Jhanjeri, Mohali.**
+
+# My Stats
+
+
+# My Contacts
