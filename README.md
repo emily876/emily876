@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Devsi Singh
+# Hi, I’m Devsi Singh
 - 👀 I’m interested in web development and programming
 - 🌱 I’m currently pursuing BTech in CSE 
 - 💞️ I’m looking to contribute to various organizational projects
