@@ -1,4 +1,4 @@
-# Hi, I’m Devsi Singh <!html &nbsp&nbsp> ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+# Hi, I’m Devsi Singh &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 - 👀 I’m interested in web development and programming
 - 🌱 I’m currently pursuing BTech in CSE 
