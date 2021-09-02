@@ -3,8 +3,6 @@
 - 👀 I’m interested in web development and programming
 - 🌱 I’m currently pursuing BTech in CSE 
 - 💞️ I’m looking to contribute to various organizational projects
-<!--- 📄 Know about my experiences [inprogress](inprogress)--->
-- ⚡ Fun fact **I just need a cup of coffee while coding.**
 - 📫 You can reach to me by mailing on singhdevsi943@gmail.com 
 
 <!---
