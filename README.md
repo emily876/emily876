@@ -21,10 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emily876&" alt="emily876" /></p>
 
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeForces-%232C3454.svg?&style=for-the-badge&logo=CodeForces&logoColor=white" />
-
 # My Stats
 # ![Devsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily876&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emily876&theme=tokyonight)](https://github.com/emily876/github-readme-stats)
