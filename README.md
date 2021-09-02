@@ -10,6 +10,8 @@ emily876/emily876 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+<p><img align="right" alt="gif" src="https://github.com/emily876/emily876/blob/main/mecode.gif" width="500" height="300" /></p>
+
 # About Me
 **I'm currently in the 3rd year of my Bachelor in Technology Degree from CGC Jhanjeri, Mohali.**<br><br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
