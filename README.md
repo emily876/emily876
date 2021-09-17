@@ -13,12 +13,10 @@ You can click the Preview link to take a look at your changes.
 <p><img alt="gif" src="https://github.com/emily876/emily876/blob/main/mecode.gif" width="700" height="500" /></p>
 
 # About Me
-**I'm currently in 3rd year of my Bachelor in Technology Degree from CEC Mohali.**
+**I'm currently in 3rd year of my Bachelor in Technology Degree from CEC Mohali.**<br><br>
 ![Badge](https://cp-logo.vercel.app/codechef/devsisingh?logo=true)
 ![Badge](https://cp-logo.vercel.app/codeforces/singhdevsi943?logo=true)
 ![Badge](https://cp-logo.vercel.app/leetcode/devsi?logo=true)
-
-<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
