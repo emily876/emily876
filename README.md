@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 # About Me
 **I'm currently in 3rd year of my Bachelor in Technology Degree from CEC Mohali.**
-[![Badge](https://cp-logo.vercel.app/codechef/singhdevsi943?logo=true)]
-[![Badge](https://cp-logo.vercel.app/codeforces/singhdevsi943?logo=true)]
-[![Badge](https://cp-logo.vercel.app/leetcode/devsi?logo=true)]
+![Badge](https://cp-logo.vercel.app/codechef/devsisingh?logo=true)
+![Badge](https://cp-logo.vercel.app/codeforces/singhdevsi943?logo=true)
+![Badge](https://cp-logo.vercel.app/leetcode/devsi?logo=true)
 
 <br><br>
 
