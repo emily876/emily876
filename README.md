@@ -13,7 +13,9 @@ You can click the Preview link to take a look at your changes.
 <p><img alt="gif" src="https://github.com/emily876/emily876/blob/main/mecode.gif" width="700" height="500" /></p>
 
 # About Me
-**I'm currently in 3rd year of my Bachelor in Technology Degree from CEC Mohali.**<br><br>
+**I'm currently in 3rd year of my Bachelor in Technology Degree from CEC, Mohali.<br>
+GirlScript National and Regional Summit Hackathon Winner<br>
+Frontend Web Developer | Competitive Programmer**<br><br>
 ![Badge](https://cp-logo.vercel.app/codechef/devsisingh?logo=true)&nbsp;&nbsp;
 ![Badge](https://cp-logo.vercel.app/codeforces/singhdevsi943?logo=true)&nbsp;&nbsp;
 ![Badge](https://cp-logo.vercel.app/leetcode/devsi?logo=true)
