@@ -33,4 +33,6 @@ Frontend Web Developer | Competitive Programmer 👩‍💻🌊**<br><br>
 # My Stats
 # ![Devsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily876&show_icons=true&theme=tokyonight)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emily876&" alt="emily876" /></p>
-![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=emily876)
+### Most Used Languages 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1362000&layout=compact&theme=midnight-purple)](https://github.com/Akash1362000)
