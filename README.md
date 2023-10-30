@@ -1,9 +1,9 @@
 # Hi, I’m Devsi Singh &nbsp;![](https://komarev.com/ghpvc/?username=emily876&color=brightgreen)
 
 - 👀 I’m interested in web development and programming
-- 🌱 I’m currently pursuing BTech in CSE 
+- 🌱 2023 Graduate in BTech(CSE) 
 - 💞️ I’m looking to contribute to various organizational projects
-- 📫 You can reach to me by mailing on singhdevsi943@gmail.com 
+- 📫 You can reach me by mailing to singhdevsi943@gmail.com 
 
 <!---
 emily876/emily876 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 <p><img alt="gif" src="https://github.com/emily876/emily876/blob/main/mecode.gif" width="700" height="500" /></p>
 
 # About Me
-**I'm currently in 3rd year of my Bachelor in Technology Degree from CEC, Mohali.🙂<br>
+**2023 Graduate in Bachelor in Technology Degree from CEC, Mohali.🙂<br>
 GirlScript National and Regional Summit Hackathon Winner🎉🤩<br>
-Frontend Web Developer | Competitive Programmer 👩‍💻🌊**<br><br>
+Frontend Web Developer 👩‍💻🌊**<br><br>
 ![Badge](https://cp-logo.vercel.app/codechef/devsisingh?logo=true)&nbsp;&nbsp;
 ![Badge](https://cp-logo.vercel.app/codeforces/singhdevsi943?logo=true)&nbsp;&nbsp;
 ![Badge](https://cp-logo.vercel.app/leetcode/devsi?logo=true)
