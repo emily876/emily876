@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 # About Me
 **2023 Graduate in Bachelor in Technology Degree from CEC, Mohali.🙂<br>
-GirlScript National and Regional Summit Hackathon Winner🎉🤩<br>
+Aptos Random Hackathon (5th position)🎉🤩<br>
 Frontend Web Developer 👩‍💻🌊**<br><br>
 ![Badge](https://cp-logo.vercel.app/codechef/devsisingh?logo=true)&nbsp;&nbsp;
 ![Badge](https://cp-logo.vercel.app/codeforces/singhdevsi943?logo=true)&nbsp;&nbsp;
